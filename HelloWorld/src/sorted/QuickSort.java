@@ -6,7 +6,7 @@ package sorted;
 import java.util.Arrays;
 
 /**
- * @author wenbren
+ * @author Jaycee
  *
  */
 public class QuickSort {
